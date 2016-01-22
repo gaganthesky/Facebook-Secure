@@ -1,0 +1,55 @@
+[0m[[0minfo[0m] [0mRunning com.Simulator [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\Dropbox\#University of FLorida\UFCoursesDetails\Fall2015\DOS\Projects\Project 5\FinalSubmitted2\Facebook-Secure (1)\Facebook-Secure\FacebookClient\target\scala-2.10\classes[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\com.typesafe.akka\akka-actor_2.10\jars\akka-actor_2.10-2.3.9.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\io.spray\spray-can_2.10\bundles\spray-can_2.10-1.3.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\io.spray\spray-io_2.10\bundles\spray-io_2.10-1.3.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\io.spray\spray-util_2.10\bundles\spray-util_2.10-1.3.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\io.spray\spray-http_2.10\bundles\spray-http_2.10-1.3.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\org.parboiled\parboiled-scala_2.10\bundles\parboiled-scala_2.10-1.1.6.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\org.parboiled\parboiled-core\bundles\parboiled-core-1.1.6.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\io.spray\spray-client_2.10\bundles\spray-client_2.10-1.3.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\io.spray\spray-httpx_2.10\bundles\spray-httpx_2.10-1.3.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\org.jvnet.mimepull\mimepull\jars\mimepull-1.9.4.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\io.spray\spray-routing_2.10\bundles\spray-routing_2.10-1.3.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\com.chuusai\shapeless_2.10\jars\shapeless_2.10-1.2.4.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\io.spray\spray-json_2.10\bundles\spray-json_2.10-1.3.1.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\com.typesafe.akka\akka-slf4j_2.10\jars\akka-slf4j_2.10-2.3.9.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\ch.qos.logback\logback-classic\jars\logback-classic-1.1.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\ch.qos.logback\logback-core\jars\logback-core-1.1.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.7.6.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\net.liftweb\lift-json_2.10\jars\lift-json_2.10-2.6.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\org.scala-lang\scalap\jars\scalap-2.10.4.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.sbt\boot\scala-2.10.4\lib\scala-compiler.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.sbt\boot\scala-2.10.4\lib\scala-reflect.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\org.json4s\json4s-native_2.10\jars\json4s-native_2.10-3.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.6.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\org.json4s\json4s-core_2.10\jars\json4s-core_2.10-3.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\org.json4s\json4s-ast_2.10\jars\json4s-ast_2.10-3.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\org.json4s\json4s-scalap_2.10\jars\json4s-scalap_2.10-3.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\com.thoughtworks.paranamer\paranamer\bundles\paranamer-2.8.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[31merror[0m] [0m(run-main-0) java.io.EOFException: Console has reached end of input[0m
+java.io.EOFException: Console has reached end of input
+	at scala.Console$.readInt(Console.scala:349)
+	at scala.Predef$.readInt(Predef.scala:296)
+	at com.Simulator$.main(Client.scala:66)
+	at com.Simulator.main(Client.scala)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at sbt.Run.invokeMain(Run.scala:67)
+	at sbt.Run.run0(Run.scala:61)
+	at sbt.Run.sbt$Run$$execute$1(Run.scala:51)
+	at sbt.Run$$anonfun$run$1.apply$mcV$sp(Run.scala:55)
+	at sbt.Run$$anonfun$run$1.apply(Run.scala:55)
+	at sbt.Run$$anonfun$run$1.apply(Run.scala:55)
+	at sbt.Logger$$anon$4.apply(Logger.scala:85)
+	at sbt.TrapExit$App.run(TrapExit.scala:248)
+	at java.lang.Thread.run(Thread.java:745)
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Simulator-akka.actor.default-dispatcher-2 to terminate.[0m
